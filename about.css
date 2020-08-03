@@ -1,0 +1,71 @@
+.navbar-light .navbar-nav .active{
+	color:purple!important;
+}
+
+.navbar{
+	background-color:#DCDCDC!important;
+	border-radius:0px 0px 10px 10px;
+	box-shadow:5px 5px 5px black;
+
+}
+body{
+	background-image:url("bg.jpeg")!important;
+	background-size:cover;
+	background-attachment:fixed;
+}
+
+.navbar-brand{
+	color:purple!important;
+	font-family: 'Rammetto One', cursive;
+	font-weight:800;
+	border:3px solid purple;
+	padding:7px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+	color:purple!important;
+}
+
+.navbar-light .navbar-text a{
+border:2px solid purple;
+background-color:!inherit;
+padding:10px;
+border-radius:15px;
+color:rgba(0,0,0,.5);
+}
+.navbar-light .navbar-text a svg{
+
+background-color:purple;
+border-radius:25px;
+
+}
+.navbar-light .navbar-text a:hover{
+	background-color:purple!important;
+	color:rgba(0,0,0,.5);
+	text-decoration:none;
+}
+
+.jumbotron{
+	
+	text-align:center;
+	width:50%;
+	margin:auto;
+    margin-top:100px;
+    
+    opacity:0.7;
+    border-radius:25px;
+}
+.jumbotron h1,hr{
+	color:purple;
+	
+}
+.fa{
+	color:purple;
+	margin:2px 5px;
+
+}
+
+.fa:hover{
+	text-decoration:none;
+
+}
